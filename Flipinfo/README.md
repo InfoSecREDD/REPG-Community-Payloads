@@ -1,5 +1,5 @@
 # Flipinfo
-Basic Windows info scraper.
+Windows info scraper.
 
 > [!IMPORTANT]
 > You must change line 14 "DiscordWebhook" to your webhook.
