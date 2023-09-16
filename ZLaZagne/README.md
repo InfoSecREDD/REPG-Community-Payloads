@@ -1,6 +1,9 @@
 # ZLaZagne
 LaZagne password recovery via Discord webhook. 
 
+Author: [dag](https://github.com/dagnazty)
+Help: [InfoSecREDD](https://github.com/InfoSecREDD)
+
 > [!IMPORTANT]
 > You must change line 16 "DiscordWebhook" to your webhook.
 
@@ -12,6 +15,3 @@ Payloads from this repository are provided for educational purposes only. Payloa
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Link
-[dag](https://github.com/dagnazty)
