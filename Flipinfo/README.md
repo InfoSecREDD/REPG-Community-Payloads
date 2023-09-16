@@ -1,6 +1,8 @@
 # Flipinfo
 Windows info scraper.
 
+Author: [dag](https://github.com/dagnazty)
+
 > [!IMPORTANT]
 > You must change line 14 "DiscordWebhook" to your webhook.
 
@@ -9,6 +11,3 @@ Payloads from this repository are provided for educational purposes only. Payloa
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Link
-[dag](https://github.com/dagnazty)
