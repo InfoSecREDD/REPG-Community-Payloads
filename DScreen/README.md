@@ -1,5 +1,5 @@
 # DScreen
-Scans and takes a screenshot of Desktop and saves all files, folders and applications names and uploads to Discord via webhook. 
+Scans Desktop and all directories on it, takes a screenshot of Desktop and saves all files, folders and applications names to a .txt and uploads to Discord via webhook. 
 
 Author: [dag](https://github.com/dagnazty)
 
